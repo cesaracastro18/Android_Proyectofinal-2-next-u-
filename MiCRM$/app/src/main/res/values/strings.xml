@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">MiCRM</string>
+    <string name="seccion1">Home</string>
+    <string name="seccion2">Personas</string>
+    <string name="seccion3">Organizaciones</string>
+    <string name="seccion4">Negocios</string>
+    <string name="seccion5">Actividades</string>
+    <string name="navigation_drawer_open">Abrir la navegacion cajon</string>
+    <string name="navigation_drawer_close">Cerrar la navegacion cajon</string>
+    <string name="action_example">Apprisa</string>
+    <string name="action_settings">Solicitud Mensajero</string>
+
+</resources>

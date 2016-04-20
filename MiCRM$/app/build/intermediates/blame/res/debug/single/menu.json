@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/apprisa/AndroidStudioProjects/MiCRM$/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/res/merged/debug/menu/global.xml",
+        "source": "/Users/apprisa/AndroidStudioProjects/MiCRM$/app/src/main/res/menu/global.xml"
+    }
+]

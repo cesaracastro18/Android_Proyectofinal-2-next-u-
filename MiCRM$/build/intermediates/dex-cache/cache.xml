@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/apprisa/Library/Android/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-v4-19.1.0_d7cc5787d9025650c0d091b12bcc3c8b9d9340b1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="f400528866279fb0d5a7f0f1ec3ca9037059d269">
+        <dex dex="/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_318444422b603675d33576edc1958b9972da97e7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/jars/classes.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28">
+        <dex dex="/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-19.1.0_6c5b0839424d893d839c0a14e06cf0a61f1febb3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="24.0.0 rc2"
+        sha1="0fd08b0b21f0ef6adcb5428a3239537be3ff9154">
+        <dex dex="/Users/apprisa/AndroidStudioProjects/MiCRM$/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_898c0bc36cb857dc557908b59a9a209c32de77d4/classes.dex" />
+    </item>
+
+</items>
